@@ -13,27 +13,40 @@ bem estruturadas, buscando evoluir constantemente como desenvolvedor.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript
-- GSAP
-- Responsive Design
+### 🎨 Front-End
 
-### Back-End
-- Node.js — estudando
-- JavaScript Back-End — estudando
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</div>
 
-### Ferramentas
-- Git
-- GitHub
-- VS Code
-- Figma
-- Vercel
+**Animações:** GSAP • ScrollTrigger • ScrollSmoother • SplitText
+
+### ⚙️ Back-End
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</div>
+
+Atualmente estudando desenvolvimento Back-End com **Node.js e JavaScript**.
+
+### 🧰 Ferramentas
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</div>
 
 ---
+
+## 📊 Linguagens mais utilizadas
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDev41&layout=compact&theme=transparent&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
 
 ## 💻 Projetos
 
