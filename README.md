@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Carlos
 
-<!--
-**JoaoDev41/JoaoDev41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Front-End | Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software e desenvolvedor focado na criação
+de interfaces modernas, responsivas e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou expandindo meus conhecimentos para desenvolvimento
+Full Stack, estudando Node.js e desenvolvimento Back-End com JavaScript.
+
+Tenho interesse em transformar design e ideias em aplicações web
+bem estruturadas, buscando evoluir constantemente como desenvolvedor.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- GSAP
+- Responsive Design
+
+### Back-End
+- Node.js — estudando
+- JavaScript Back-End — estudando
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- Figma
+- Vercel
+
+---
+
+## 💻 Projetos
+
+### 🛒 WebStore
+Interface de e-commerce desenvolvida com foco em experiência visual,
+responsividade e interação.
+
+### 🦷 Website Clínica
+Website institucional para clínica com foco em apresentação de serviços
+e experiência do usuário.
+
+### 🍷 Milano
+Projeto web desenvolvido para explorar interfaces modernas,
+animações e experiência visual.
+
+### 🍧 Website Açaí
+Landing page voltada para apresentação de produtos e conversão.
+
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript avançado
+- Node.js
+- APIs REST
+- Back-End
+- Banco de Dados
+- Desenvolvimento Full Stack
+
+---
+
+## 🎓 Formação
+
+**Engenharia de Software**  
+Anhanguera — Cursando
+
+---
+
+## 🌐 Portfólio
+
+Light.tech  
+https://www.lighttech.online/
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades de estágio ou posição Júnior em Desenvolvimento Web,
+onde eu possa contribuir com meus conhecimentos em Front-End enquanto
+continuo evoluindo em Back-End e desenvolvimento Full Stack.
